@@ -35,7 +35,7 @@
 
 ## 📸 运行效果演示
 
-![检测效果图](images/Rendergraph/Misprint(32).jpg)
+![检测效果图](images/Rendergraph/Misprint (32).jpg)
 ![VM方案流程图](images/vm_workflow.jpg)
 
 ---
