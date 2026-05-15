@@ -3,7 +3,8 @@
 基于海康 VisionMaster 与 VisionTrain 深度学习平台的工业缺陷检测混合架构落地方案。
 本项目为第四届“海康启智杯”机器智能大赛（应用赛道）参赛项目。
 
-📑 **[点击此处在线阅读完整《技术报告》PDF](./项目技术报告.pdf)**
+📑 **[点击此处下载完整《技术报告》PDF](./Technical_Report.pdf)**  
+*(注：若 GitHub 网页端无法直接预览，请点击页面右上角的 `Download raw file` 按钮下载后查看)*
 
 ---
 
@@ -35,8 +36,9 @@
 
 ## 📸 运行效果演示
 
-![检测效果图](images/Rendergraph/Misprint (32).jpg)
 ![VM方案流程图](images/vm_workflow.jpg)
+
+![检测效果图](images/operation_interface.jpg)
 
 ---
 
